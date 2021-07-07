@@ -1,0 +1,3 @@
+module UnivercitySystem {
+	exports test;
+}
